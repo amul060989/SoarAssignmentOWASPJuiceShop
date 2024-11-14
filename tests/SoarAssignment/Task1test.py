@@ -2,12 +2,10 @@ from pages.HomePage.Task1 import task1
 import pytest
 import unittest
 from utils.test_status import TestStatus
-from ddt import ddt,unpack,data
-from utils.read_data import getData
 
 
 @pytest.mark.usefixtures('oneTimeSetUp','setUp')
-class getWeatherResultTest(unittest.TestCase):
+class Task1test(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup(self):
@@ -20,6 +18,6 @@ class getWeatherResultTest(unittest.TestCase):
         self.testStatus = TestStatus(self.driver)
 
     
-    def test_getWeatherData(self):
+    def test_task1(self):
         result = self.getMaximumCards.validateMaximumCardOnHomePage()
         self.testStatus.markFinal("Maximum Card On Home page test",result,".")
