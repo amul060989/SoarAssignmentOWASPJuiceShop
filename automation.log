@@ -1,0 +1,93 @@
+11/14/2024 03:57:11 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 03:57:11 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 03:57:11 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 03:58:42 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 03:58:42 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 03:58:42 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 03:58:42 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div and locatorType: xpath
+11/14/2024 03:58:43 PM - task1 - INFO: Cannot send data on this element with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div locatorType: xpath
+11/14/2024 03:58:43 PM - task1 - INFO: Element not Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 03:58:43 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 03:58:43 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 03:58:43 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 03:58:44 PM - TestStatus - ERROR: Maximum Card On Home page test ### TEST FAILED
+11/14/2024 04:00:59 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:00:59 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:00:59 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:02:08 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:02:08 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:02:08 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:02:08 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div and locatorType: xpath
+11/14/2024 04:02:09 PM - task1 - INFO: Cannot send data on this element with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div locatorType: xpath
+11/14/2024 04:02:09 PM - task1 - INFO: Element not Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:02:09 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:02:09 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:02:09 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 04:02:10 PM - TestStatus - ERROR: Maximum Card On Home page test ### TEST FAILED
+11/14/2024 04:02:50 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:02:50 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:02:50 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:02:50 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div and locatorType: xpath
+11/14/2024 04:02:51 PM - task1 - INFO: Cannot send data on this element with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div locatorType: xpath
+11/14/2024 04:02:52 PM - task1 - INFO: Element not Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:02:52 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:02:52 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:02:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 04:02:52 PM - TestStatus - ERROR: Maximum Card On Home page test ### TEST FAILED
+11/14/2024 04:12:04 PM - task1 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:12:38 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div and locatorType: xpath
+11/14/2024 04:12:39 PM - task1 - INFO: Cannot send data on this element with locator: //*[text()=' Items per page: ']//following::mat-form-field//child::div locatorType: xpath
+11/14/2024 04:12:39 PM - task1 - INFO: Element not Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:12:39 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:12:39 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:12:39 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 04:12:40 PM - TestStatus - ERROR: Maximum Card On Home page test ### TEST FAILED
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:15:40 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field/div/div and locatorType: xpath
+11/14/2024 04:15:41 PM - task1 - INFO: Cannot send data on this element with locator: //*[text()=' Items per page: ']//following::mat-form-field/div/div locatorType: xpath
+11/14/2024 04:15:42 PM - task1 - INFO: Element not Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:15:42 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:15:42 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:15:42 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 04:15:42 PM - TestStatus - ERROR: Maximum Card On Home page test ### TEST FAILED
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Element Found with locator: //mat-select[@role='combobox'] and locatorType: xpath
+11/14/2024 04:18:17 PM - task1 - INFO: Sent data on element with locator: //mat-select[@role='combobox'] locatorType: xpath
+11/14/2024 04:18:18 PM - task1 - INFO: Element Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:18:18 PM - task1 - INFO: Element Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:18:18 PM - task1 - INFO: Sent data on element with locator: //span[@class='mat-option-text' and text()=48] locatorType: xpath
+11/14/2024 04:18:18 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:18:18 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:18:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + .
+11/14/2024 04:18:18 PM - TestStatus - INFO: Maximum Card On Home page test ### TEST SUCCESSFUL
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //*[text()=' Items per page: ']//following::mat-form-field and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //mat-select[@role='combobox'] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Sent data on element with locator: //mat-select[@role='combobox'] locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //span[@class='mat-option-text' and text()=48] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Sent data on element with locator: //span[@class='mat-option-text' and text()=48] locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //div[@class='mat-paginator-range-label'] and locatorType: xpath
+11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
+11/14/2024 04:18:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + .
+11/14/2024 04:18:32 PM - TestStatus - INFO: Maximum Card On Home page test ### TEST SUCCESSFUL

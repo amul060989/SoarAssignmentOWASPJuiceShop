@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Aug 10 12:51:10 IST 2023","Thu Aug 10 12:51:17 IST 2023","6934","tests.searchWeatherData","searchWeather_test","getWeatherResultTest","","","test_getWeatherData_1___Delhi__",""

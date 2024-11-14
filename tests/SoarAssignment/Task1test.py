@@ -1,4 +1,4 @@
-from pages.getWeatherData.getWeatherData import getWeatherData
+from pages.HomePage.Task1 import task1
 import pytest
 import unittest
 from utils.test_status import TestStatus
@@ -7,12 +7,11 @@ from utils.read_data import getData
 
 
 @pytest.mark.usefixtures('oneTimeSetUp','setUp')
-@ddt
 class getWeatherResultTest(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup(self):
-        self.getSearch = getWeatherData(self.driver)
+        self.getMaximumCards = task1(self.driver)
 
         """
             Soft assertion only use if test case needed to be continued.
@@ -20,8 +19,7 @@ class getWeatherResultTest(unittest.TestCase):
 
         self.testStatus = TestStatus(self.driver)
 
-    @data(*getData("testData/getWeatherData.csv"))
-    @unpack
-    def test_getWeatherData(self,searchQuery):
-        result = self.getSearch.validateSearchResult(searchQuery)
-        self.testStatus.markFinal("getWeatherData",result,"Delhi Weather")
+    
+    def test_getWeatherData(self):
+        result = self.getMaximumCards.validateMaximumCardOnHomePage()
+        self.testStatus.markFinal("Maximum Card On Home page test",result,".")

@@ -22,7 +22,7 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        baseURL = "https://www.visualcrossing.com/"
+        baseURL = "https://juice-shop.herokuapp.com/#/"
         if self.browser == "iexplorer":
             # Set ie driver
             driver = webdriver.Ie()

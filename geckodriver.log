@@ -1,0 +1,14 @@
+1731579832550	geckodriver	INFO	Listening on 127.0.0.1:61837
+1731579832749	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/23/4bcjq9p52h77p8n_868sd2n80000gn/T/rust_mozprofileIsPy85"
+1731579833667	Marionette	INFO	Marionette enabled
+1731579833683	Marionette	INFO	Listening on port 61966
+Read port: 61966
+2024-11-14 15:53:53.849 firefox[18129:159033] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-11-14 15:53:53.849 firefox[18129:159033] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+WebDriver BiDi listening on ws://127.0.0.1:61838
+1731579833873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/23/4bcjq9p52h77p8n_868sd2n80000gn/T/rust_mozprofileIsPy85/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61838/devtools/browser/bc091ad7-fe3a-4573-85c5-9864be89d06c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1731579839955	Marionette	INFO	Stopped listening on port 61966

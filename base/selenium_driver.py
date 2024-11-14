@@ -52,6 +52,17 @@ class SeleniumDriver:
 
     def geTitle(self):
         return self.driver.title
+    
+    def getElements(self, locator, locatorType="id"):
+        element = None
+        try:
+            locatorType = locatorType.lower()
+            byType = self.getByType(locatorType)
+            elements = self.driver.find_elements(byType, locator)
+            self.log.info("Element Found with locator: " + locator + " and locatorType: " + locatorType)
+        except:
+            self.log.info("Element not Found with locator: " + locator + " and locatorType: " + locatorType)
+        return elements
 
     def getElement(self, locator, locatorType="id"):
         element = None
