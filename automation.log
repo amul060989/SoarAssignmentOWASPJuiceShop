@@ -91,3 +91,33 @@
 11/14/2024 04:18:32 PM - task1 - INFO: Element Found with locator: //mat-card and locatorType: xpath
 11/14/2024 04:18:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + .
 11/14/2024 04:18:32 PM - TestStatus - INFO: Maximum Card On Home page test ### TEST SUCCESSFUL
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //*[contains(text(),'Apple Juice')]/ancestor::mat-card and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Sent data on element with locator: //*[contains(text(),'Apple Juice')]/ancestor::mat-card locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //mat-dialog-container//child::div/h1[contains(text(),'')] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //app-product-details//child::img and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Element Found with locator: //mat-expansion-panel-header[@role='button'] and locatorType: xpath
+11/14/2024 05:04:03 PM - task2 - INFO: Sent data on element with locator: //mat-expansion-panel-header[@role='button'] locatorType: xpath
+11/14/2024 05:04:05 PM - task2 - INFO: Element Found with locator: //*[text()=' Close']/parent::span and locatorType: xpath
+11/14/2024 05:04:05 PM - task2 - INFO: Sent data on element with locator: //*[text()=' Close']/parent::span locatorType: xpath
+11/14/2024 05:04:05 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 05:04:05 PM - TestStatus - ERROR: Pop Items on Home page test  ### TEST FAILED
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //span[text()='OWASP Juice Shop'] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //*[contains(text(),'All Products')] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //*[contains(text(),'Apple Juice')]/ancestor::mat-card and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Sent data on element with locator: //*[contains(text(),'Apple Juice')]/ancestor::mat-card locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //mat-dialog-container//child::div/h1[contains(text(),'')] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //app-product-details//child::img and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Element Found with locator: //mat-expansion-panel-header[@role='button'] and locatorType: xpath
+11/14/2024 05:06:39 PM - task2 - INFO: Sent data on element with locator: //mat-expansion-panel-header[@role='button'] locatorType: xpath
+11/14/2024 05:06:41 PM - task2 - INFO: Element Found with locator: //*[text()=' Close']/parent::span and locatorType: xpath
+11/14/2024 05:06:41 PM - task2 - INFO: Sent data on element with locator: //*[text()=' Close']/parent::span locatorType: xpath
+11/14/2024 05:06:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + .
+11/14/2024 05:06:41 PM - TestStatus - INFO: Pop Items on Home page test  ### TEST SUCCESSFUL
