@@ -121,3 +121,339 @@
 11/14/2024 05:06:41 PM - task2 - INFO: Sent data on element with locator: //*[text()=' Close']/parent::span locatorType: xpath
 11/14/2024 05:06:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + .
 11/14/2024 05:06:41 PM - TestStatus - INFO: Pop Items on Home page test  ### TEST SUCCESSFUL
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:00:38 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:00:39 PM - task3 - INFO: Cannot send data on this element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:00:44 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:00:44 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:00:45 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:00:45 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:00:45 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:00:47 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please select a security question. '] and locatorType: xpath
+11/14/2024 06:00:52 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:00:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:00:52 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:01:14 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:01:15 PM - task3 - INFO: Cannot send data on this element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:01:20 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:01:20 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:01:20 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:01:20 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:01:20 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:01:23 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please select a security question. '] and locatorType: xpath
+11/14/2024 06:01:23 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:01:23 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:01:23 PM - TestStatus - ERROR: ##### Screenshot not captured
+11/14/2024 06:01:23 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:02:01 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:02:01 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:02:02 PM - task3 - INFO: Cannot send data on this element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:02:07 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:02:07 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:02:07 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:02:07 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:02:12 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:02:17 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:02:17 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:02:18 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:04:11 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:04:11 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:04:12 PM - task3 - INFO: Cannot send data on this element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:04:17 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:04:17 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:04:17 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:04:17 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:04:19 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:04:24 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:06:05 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:06:05 PM - task3 - INFO: Sent data on element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:06:10 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:06:10 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:06:10 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:06:10 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:06:11 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:06:12 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:06:39 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:06:40 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:06:40 PM - task3 - INFO: Element Found with locator: securityAnswerControl and locatorType: id
+11/14/2024 06:06:41 PM - task3 - INFO: Cannot send data on this element with locator: securityAnswerControl locatorType: id
+11/14/2024 06:06:46 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:06:46 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:06:46 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:06:46 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:06:51 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:06:56 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:06:56 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:06:56 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:08:25 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:08:25 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:08:25 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:08:25 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:08:25 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:09:27 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:09:27 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:10:33 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:10:33 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:10:43 PM - task3 - INFO: Element not Found with locator: //*[@id='securityAnswerControl'] and locatorType: id
+11/14/2024 06:10:43 PM - task3 - INFO: Cannot send data on this element with locator: //*[@id='securityAnswerControl'] locatorType: id
+11/14/2024 06:10:53 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:10:53 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:10:53 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:10:53 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:10:53 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:11:03 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please provide an answer to your security question. '] and locatorType: xpath
+11/14/2024 06:11:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:11:04 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:11:45 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:11:45 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:11:45 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:11:45 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:11:45 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:11:50 PM - task3 - INFO: Element not Found with locator: //button[@type='submit'] and locatorType: id
+11/14/2024 06:11:50 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: id
+11/14/2024 06:11:50 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:11:50 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:11:55 PM - task3 - INFO: Element not Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:11:55 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:11:55 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:12:50 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:12:50 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:12:50 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:12:50 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:12:50 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:12:51 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:12:51 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:12:51 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:12:51 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:12:51 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Element not Found with locator: //*[text()='User Registration'] and locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Cannot send data on this element with locator: //*[text()='User Registration'] locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: //mat-error[text()=' Please repeat your password. '] and locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Clicked on element with locator: emailControl locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Clicked on element with locator: passwordControl locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Clicked on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Element Found with locator: (//mat-option)[2] and locatorType: xpath
+11/14/2024 06:12:56 PM - task3 - INFO: Sent data on element with locator: (//mat-option)[2] locatorType: xpath
+11/14/2024 06:12:57 PM - task3 - INFO: Element not Found with locator: //*[@id='securityAnswerControl'] and locatorType: id
+11/14/2024 06:12:57 PM - task3 - INFO: Cannot click on the element with locator: //*[@id='securityAnswerControl'] locatorType: id
+11/14/2024 06:12:57 PM - task3 - INFO: Element Found with locator: //button[@type='submit'] and locatorType: xpath
+11/14/2024 06:12:57 PM - task3 - INFO: Sent data on element with locator: //button[@type='submit'] locatorType: xpath
+11/14/2024 06:12:58 PM - task3 - INFO: Element not Found with locator: //*[text()='Registration completed successfully. You can now log in.'] and locatorType: xpath
+11/14/2024 06:12:58 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:12:58 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:14:02 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:14:02 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:14:02 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:14:02 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:14:02 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:14:03 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:14:03 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:14:03 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:14:08 PM - task3 - INFO: Element not Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:14:13 PM - task3 - INFO: Element not Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:14:13 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:14:13 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:14:53 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:14:53 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:14:53 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:14:53 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:14:53 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:14:53 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:14:53 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Clicked on element with locator: emailControl locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Clicked on element with locator: passwordControl locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Clicked on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:14:54 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:14:54 PM - task3 - INFO: Element Found with locator: (//mat-option)[2] and locatorType: xpath
+11/14/2024 06:14:54 PM - task3 - INFO: Sent data on element with locator: (//mat-option)[2] locatorType: xpath
+11/14/2024 06:14:55 PM - task3 - INFO: Element not Found with locator: //*[@id='securityAnswerControl'] and locatorType: id
+11/14/2024 06:14:55 PM - task3 - INFO: Cannot click on the element with locator: //*[@id='securityAnswerControl'] locatorType: id
+11/14/2024 06:14:55 PM - task3 - INFO: Element Found with locator: //button[@type='submit'] and locatorType: xpath
+11/14/2024 06:14:56 PM - task3 - INFO: Cannot send data on this element with locator: //button[@type='submit'] locatorType: xpath
+11/14/2024 06:14:57 PM - task3 - INFO: Element not Found with locator: //*[text()='Registration completed successfully. You can now log in.'] and locatorType: xpath
+11/14/2024 06:14:57 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:14:57 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Clicked on element with locator: emailControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Clicked on element with locator: passwordControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Clicked on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Element Found with locator: (//mat-option)[2] and locatorType: xpath
+11/14/2024 06:19:30 PM - task3 - INFO: Sent data on element with locator: (//mat-option)[2] locatorType: xpath
+11/14/2024 06:19:31 PM - task3 - INFO: Element not Found with locator: //*[@id='securityAnswerControl'] and locatorType: id
+11/14/2024 06:19:31 PM - task3 - INFO: Cannot send data on this element with locator: //*[@id='securityAnswerControl'] locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Clicked on element with locator: emailControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Clicked on element with locator: passwordControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Clicked on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Element Found with locator: (//mat-option)[2] and locatorType: xpath
+11/14/2024 06:20:24 PM - task3 - INFO: Sent data on element with locator: (//mat-option)[2] locatorType: xpath
+11/14/2024 06:20:25 PM - task3 - INFO: Element not Found with locator: //*[@id='securityAnswerControl'] and locatorType: id
+11/14/2024 06:22:29 PM - task3 - INFO: Element Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:22:29 PM - task3 - INFO: Element Found with locator: //*[@aria-label='Close Welcome Banner'] and locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Sent data on element with locator: //*[@aria-label='Close Welcome Banner'] locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Sent data on element with locator: emailControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Sent data on element with locator: passwordControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Sent data on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: emailControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Clicked on element with locator: emailControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: passwordControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Clicked on element with locator: passwordControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Clicked on element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:22:30 PM - task3 - INFO: Element Found with locator: //mat-select and locatorType: xpath
+11/14/2024 06:22:30 PM - task3 - INFO: Sent data on element with locator: //mat-select locatorType: xpath
+11/14/2024 06:22:31 PM - task3 - INFO: Element not Found with locator: (//mat-option)[2] and locatorType: xpath
+11/14/2024 06:22:31 PM - task3 - INFO: Cannot send data on this element with locator: (//mat-option)[2] locatorType: xpath
+11/14/2024 06:22:32 PM - task3 - INFO: Element not Found with locator: //input[@placeholder='Answer to your security question'] and locatorType: id
+11/14/2024 06:23:16 PM - task3 - INFO: Element not Found with locator: //mat-dialog-container[contains(@class,'mat-dialog-container')] and locatorType: xpath
+11/14/2024 06:23:21 PM - task3 - INFO: Element not Found with locator: //*[text()='User Registration'] and locatorType: xpath
+11/14/2024 06:23:23 PM - task3 - INFO: Element not Found with locator: emailControl and locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Cannot send data on this element with locator: emailControl locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Element not Found with locator: passwordControl and locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Cannot send data on this element with locator: passwordControl locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Element not Found with locator: repeatPasswordControl and locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Cannot send data on this element with locator: repeatPasswordControl locatorType: id
+11/14/2024 06:23:23 PM - task3 - INFO: Element not Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:23:23 PM - task3 - INFO: Element not Found with locator: //mat-error[text()='Please provide a password. '] and locatorType: xpath
+11/14/2024 06:23:23 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + .
+11/14/2024 06:23:23 PM - TestStatus - ERROR: ##### Screenshot not captured
+11/14/2024 06:23:23 PM - TestStatus - ERROR: Register Page validation  ### TEST FAILED
